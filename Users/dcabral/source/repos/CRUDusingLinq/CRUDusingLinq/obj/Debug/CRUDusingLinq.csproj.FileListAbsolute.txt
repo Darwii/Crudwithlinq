@@ -1,0 +1,2 @@
+C:\Users\dcabral\source\repos\CRUDusingLinq\CRUDusingLinq\obj\Debug\CRUDusingLinq.csproj.AssemblyReference.cache
+C:\Users\dcabral\source\repos\CRUDusingLinq\CRUDusingLinq\obj\Debug\CRUDusingLinq.csproj.CoreCompileInputs.cache
