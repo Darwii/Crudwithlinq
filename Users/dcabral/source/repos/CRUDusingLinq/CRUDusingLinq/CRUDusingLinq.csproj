@@ -208,10 +208,14 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\user\Create.cshtml" />
+    <Content Include="Views\user\Index.cshtml" />
+    <Content Include="Views\user\Details.cshtml" />
+    <Content Include="Views\user\Edit.cshtml" />
+    <Content Include="Views\user\Delete.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Views\user\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
