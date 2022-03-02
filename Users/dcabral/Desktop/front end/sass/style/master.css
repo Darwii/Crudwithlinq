@@ -1,0 +1,42 @@
+body {
+  background-color: #00c3ff;
+}
+
+header {
+  background-color: #3487ad;
+  width: 100%;
+  height: 100px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+header .logo {
+  float: left;
+}
+
+header .logo #logoImage {
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+
+header .logotext {
+  float: left;
+  margin-left: 5px;
+  margin-top: 15px;
+}
+
+header .nav-bar ul li {
+  float: left;
+  margin-left: 20px;
+  margin-top: 10px;
+  list-style: none;
+}
+
+header .search {
+  float: left;
+  margin-top: 45px;
+  margin-left: 30px;
+}
+/*# sourceMappingURL=master.css.map */
