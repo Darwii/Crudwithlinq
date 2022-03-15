@@ -11,17 +11,17 @@ namespace CRUDusingLinq.Controllers
     public class userController : Controller
     {
         private IUserRepository _repository;
-        
 
-        public userController():this(new userRepository())
+
+        public userController() : this(new userRepository())
         {
-                
+
         }
         public userController(IUserRepository repository)
         {
             _repository = repository;
         }
-        
+
 
         // GET: user
         public ActionResult Create()
@@ -41,11 +41,11 @@ namespace CRUDusingLinq.Controllers
             }
             catch (DataException)
             {
-                
-                
-             ModelState.AddModelError("", "Unable to save changes. Try again, and if the problem persists see your system administrator.");
-                   
-                
+
+
+                ModelState.AddModelError("", "Unable to save changes. Try again .");
+
+
             }
             return View(user);
 
@@ -60,11 +60,13 @@ namespace CRUDusingLinq.Controllers
             userdata model = _repository.GetuserByID(id);
             return View(model);
         }
+        [HttpGet]
         public ActionResult Edit(int id)
         {
             userdata model = _repository.GetuserByID(id);
                 return View(model);
         }
+        [HttpPost]
         public ActionResult Edit(userdata user)
         {
             try
