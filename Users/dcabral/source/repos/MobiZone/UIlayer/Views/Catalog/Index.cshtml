@@ -1,0 +1,16 @@
+﻿@addTagHelper*, Microsift.AspNetCore.Mvc.TagHelpers
+@model DomainLayer.Product
+ 
+<form action="Index" method="post">
+    <label asp -for="id"></label>
+    <input asp-for="id" type="text" />
+    <label asp-for="Name"></label>
+    <input asp-for="Name" type="text" />
+    <label asp-for="Label"></label>
+    <input asp-for="Label" type="text" />
+    <label asp-for="Description" ></label>
+    <input asp-for="Description" type="text" />
+    <label asp-for="ImagePath"></label>
+    <input asp-for="ImagePath" type="text" />
+    <input type="button" />
+</form>

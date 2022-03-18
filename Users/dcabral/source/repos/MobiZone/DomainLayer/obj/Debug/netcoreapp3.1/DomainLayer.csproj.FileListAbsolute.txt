@@ -1,0 +1,10 @@
+C:\Users\dcabral\source\repos\MobiZone\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.deps.json
+C:\Users\dcabral\source\repos\MobiZone\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.dll
+C:\Users\dcabral\source\repos\MobiZone\DomainLayer\bin\Debug\netcoreapp3.1\DomainLayer.pdb
+C:\Users\dcabral\source\repos\MobiZone\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.csproj.AssemblyReference.cache
+C:\Users\dcabral\source\repos\MobiZone\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcabral\source\repos\MobiZone\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.AssemblyInfoInputs.cache
+C:\Users\dcabral\source\repos\MobiZone\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.AssemblyInfo.cs
+C:\Users\dcabral\source\repos\MobiZone\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.csproj.CoreCompileInputs.cache
+C:\Users\dcabral\source\repos\MobiZone\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.dll
+C:\Users\dcabral\source\repos\MobiZone\DomainLayer\obj\Debug\netcoreapp3.1\DomainLayer.pdb

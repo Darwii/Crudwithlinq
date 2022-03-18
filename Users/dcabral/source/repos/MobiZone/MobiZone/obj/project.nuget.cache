@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "WcGYr+9Cpx22EcG4Cl3UInGQeHjbS4LGNMW2bRk4FwbDToF4fyy8oswnI11I3XUR02pLOjx0Cfmq9cNuZm539g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dcabral\\source\\repos\\MobiZone\\MobiZone\\MobiZone.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dcabral\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.8\\microsoft.extensions.configuration.3.1.8.nupkg.sha512",
+    "C:\\Users\\dcabral\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\dcabral\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.8\\microsoft.extensions.configuration.fileextensions.3.1.8.nupkg.sha512",
+    "C:\\Users\\dcabral\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.8\\microsoft.extensions.configuration.json.3.1.8.nupkg.sha512",
+    "C:\\Users\\dcabral\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.8\\microsoft.extensions.fileproviders.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\dcabral\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.8\\microsoft.extensions.fileproviders.physical.3.1.8.nupkg.sha512",
+    "C:\\Users\\dcabral\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.8\\microsoft.extensions.filesystemglobbing.3.1.8.nupkg.sha512",
+    "C:\\Users\\dcabral\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.8\\microsoft.extensions.primitives.3.1.8.nupkg.sha512",
+    "C:\\Users\\dcabral\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

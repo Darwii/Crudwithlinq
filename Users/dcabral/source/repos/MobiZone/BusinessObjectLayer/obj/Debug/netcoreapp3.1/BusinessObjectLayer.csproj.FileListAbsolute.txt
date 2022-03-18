@@ -1,0 +1,10 @@
+C:\Users\dcabral\source\repos\MobiZone\BusinessObjectLayer\bin\Debug\netcoreapp3.1\BusinessObjectLayer.deps.json
+C:\Users\dcabral\source\repos\MobiZone\BusinessObjectLayer\bin\Debug\netcoreapp3.1\BusinessObjectLayer.dll
+C:\Users\dcabral\source\repos\MobiZone\BusinessObjectLayer\bin\Debug\netcoreapp3.1\BusinessObjectLayer.pdb
+C:\Users\dcabral\source\repos\MobiZone\BusinessObjectLayer\obj\Debug\netcoreapp3.1\BusinessObjectLayer.csproj.AssemblyReference.cache
+C:\Users\dcabral\source\repos\MobiZone\BusinessObjectLayer\obj\Debug\netcoreapp3.1\BusinessObjectLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dcabral\source\repos\MobiZone\BusinessObjectLayer\obj\Debug\netcoreapp3.1\BusinessObjectLayer.AssemblyInfoInputs.cache
+C:\Users\dcabral\source\repos\MobiZone\BusinessObjectLayer\obj\Debug\netcoreapp3.1\BusinessObjectLayer.AssemblyInfo.cs
+C:\Users\dcabral\source\repos\MobiZone\BusinessObjectLayer\obj\Debug\netcoreapp3.1\BusinessObjectLayer.csproj.CoreCompileInputs.cache
+C:\Users\dcabral\source\repos\MobiZone\BusinessObjectLayer\obj\Debug\netcoreapp3.1\BusinessObjectLayer.dll
+C:\Users\dcabral\source\repos\MobiZone\BusinessObjectLayer\obj\Debug\netcoreapp3.1\BusinessObjectLayer.pdb
