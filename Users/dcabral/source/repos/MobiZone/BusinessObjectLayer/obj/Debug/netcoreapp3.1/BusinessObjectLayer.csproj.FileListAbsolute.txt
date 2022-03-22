@@ -8,3 +8,8 @@ C:\Users\dcabral\source\repos\MobiZone\BusinessObjectLayer\obj\Debug\netcoreapp3
 C:\Users\dcabral\source\repos\MobiZone\BusinessObjectLayer\obj\Debug\netcoreapp3.1\BusinessObjectLayer.csproj.CoreCompileInputs.cache
 C:\Users\dcabral\source\repos\MobiZone\BusinessObjectLayer\obj\Debug\netcoreapp3.1\BusinessObjectLayer.dll
 C:\Users\dcabral\source\repos\MobiZone\BusinessObjectLayer\obj\Debug\netcoreapp3.1\BusinessObjectLayer.pdb
+C:\Users\dcabral\source\repos\Mobizone\BusinessObjectLayer\bin\Debug\netcoreapp3.1\DomainLayer.dll
+C:\Users\dcabral\source\repos\Mobizone\BusinessObjectLayer\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\dcabral\source\repos\Mobizone\BusinessObjectLayer\bin\Debug\netcoreapp3.1\DomainLayer.pdb
+C:\Users\dcabral\source\repos\Mobizone\BusinessObjectLayer\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\dcabral\source\repos\Mobizone\BusinessObjectLayer\obj\Debug\netcoreapp3.1\BusinessObjectLayer.csproj.CopyComplete

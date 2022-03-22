@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dcabral\\source\\repos\\MobiZone\\Repository\\Repository.csproj": {}
+    "C:\\Users\\dcabral\\source\\repos\\Mobizone\\Repository\\Repository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dcabral\\source\\repos\\MobiZone\\DomainLayer\\DomainLayer.csproj": {
+    "C:\\Users\\dcabral\\source\\repos\\Mobizone\\DomainLayer\\DomainLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dcabral\\source\\repos\\MobiZone\\DomainLayer\\DomainLayer.csproj",
+        "projectUniqueName": "C:\\Users\\dcabral\\source\\repos\\Mobizone\\DomainLayer\\DomainLayer.csproj",
         "projectName": "DomainLayer",
-        "projectPath": "C:\\Users\\dcabral\\source\\repos\\MobiZone\\DomainLayer\\DomainLayer.csproj",
+        "projectPath": "C:\\Users\\dcabral\\source\\repos\\Mobizone\\DomainLayer\\DomainLayer.csproj",
         "packagesPath": "C:\\Users\\dcabral\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dcabral\\source\\repos\\MobiZone\\DomainLayer\\obj\\",
+        "outputPath": "C:\\Users\\dcabral\\source\\repos\\Mobizone\\DomainLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dcabral\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\dcabral\\source\\repos\\MobiZone\\Repository\\Repository.csproj": {
+    "C:\\Users\\dcabral\\source\\repos\\Mobizone\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dcabral\\source\\repos\\MobiZone\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\dcabral\\source\\repos\\Mobizone\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\dcabral\\source\\repos\\MobiZone\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\dcabral\\source\\repos\\Mobizone\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\dcabral\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dcabral\\source\\repos\\MobiZone\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\dcabral\\source\\repos\\Mobizone\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dcabral\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\dcabral\\source\\repos\\MobiZone\\DomainLayer\\DomainLayer.csproj": {
-                "projectPath": "C:\\Users\\dcabral\\source\\repos\\MobiZone\\DomainLayer\\DomainLayer.csproj"
+              "C:\\Users\\dcabral\\source\\repos\\Mobizone\\DomainLayer\\DomainLayer.csproj": {
+                "projectPath": "C:\\Users\\dcabral\\source\\repos\\Mobizone\\DomainLayer\\DomainLayer.csproj"
               }
             }
           }

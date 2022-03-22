@@ -11,7 +11,7 @@ namespace Repository
         void Update(T entity);
         void Delete(T entity);
         IEnumerable<T> Get();
-        Product GetById(int id);
+        T GetById(int Id);
 
         void Save();
     }

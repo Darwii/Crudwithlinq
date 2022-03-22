@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4zqkE7NpWN1CddJeDPAg1N54QiGQxVX0QQy9tn6Agz1RnbpEirSrHiT1dIVmoVQEPKfJYVQ9fu2vMyaRtdK1lg==",
+  "dgSpecHash": "mNCTNlIUTSvKOkfe7foN5ArxX03XZ7ySuaUfcZ/eG8YSTbQ8CEt6xYYWZvcjF7RRBrfZ6LbtuS1A1tAjFOvLWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dcabral\\source\\repos\\MobiZone\\UIlayer\\UIlayer.csproj",
+  "projectFilePath": "C:\\Users\\dcabral\\source\\repos\\Mobizone\\UIlayer\\UIlayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dcabral\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\dcabral\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

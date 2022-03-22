@@ -5916,11 +5916,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dcabral\\source\\repos\\MobiZone\\BusinessObjectLayer\\BusinessObjectLayer.csproj",
+      "projectUniqueName": "C:\\Users\\dcabral\\source\\repos\\Mobizone\\BusinessObjectLayer\\BusinessObjectLayer.csproj",
       "projectName": "BusinessObjectLayer",
-      "projectPath": "C:\\Users\\dcabral\\source\\repos\\MobiZone\\BusinessObjectLayer\\BusinessObjectLayer.csproj",
+      "projectPath": "C:\\Users\\dcabral\\source\\repos\\Mobizone\\BusinessObjectLayer\\BusinessObjectLayer.csproj",
       "packagesPath": "C:\\Users\\dcabral\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dcabral\\source\\repos\\MobiZone\\BusinessObjectLayer\\obj\\",
+      "outputPath": "C:\\Users\\dcabral\\source\\repos\\Mobizone\\BusinessObjectLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dcabral\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5937,11 +5937,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\dcabral\\source\\repos\\MobiZone\\DomainLayer\\DomainLayer.csproj": {
-              "projectPath": "C:\\Users\\dcabral\\source\\repos\\MobiZone\\DomainLayer\\DomainLayer.csproj"
+            "C:\\Users\\dcabral\\source\\repos\\Mobizone\\DomainLayer\\DomainLayer.csproj": {
+              "projectPath": "C:\\Users\\dcabral\\source\\repos\\Mobizone\\DomainLayer\\DomainLayer.csproj"
             },
-            "C:\\Users\\dcabral\\source\\repos\\MobiZone\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\dcabral\\source\\repos\\MobiZone\\Repository\\Repository.csproj"
+            "C:\\Users\\dcabral\\source\\repos\\Mobizone\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\dcabral\\source\\repos\\Mobizone\\Repository\\Repository.csproj"
             }
           }
         }

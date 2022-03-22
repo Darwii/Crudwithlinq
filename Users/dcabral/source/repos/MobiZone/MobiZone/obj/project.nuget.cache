@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WcGYr+9Cpx22EcG4Cl3UInGQeHjbS4LGNMW2bRk4FwbDToF4fyy8oswnI11I3XUR02pLOjx0Cfmq9cNuZm539g==",
+  "dgSpecHash": "P6eImjEbPKaWylWv6m8yosNjX2vZZfKjjVWIBSThu23WSTsdWLoAF5GeHsOVxgvdep5qzHX4D2NeIrqK3QP56A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dcabral\\source\\repos\\MobiZone\\MobiZone\\MobiZone.csproj",
+  "projectFilePath": "C:\\Users\\dcabral\\source\\repos\\Mobizone\\MobiZone\\MobiZone.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dcabral\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.8\\microsoft.extensions.configuration.3.1.8.nupkg.sha512",
     "C:\\Users\\dcabral\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",

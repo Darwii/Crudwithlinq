@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dcabral\\source\\repos\\MobiZone\\MobiZone\\MobiZone.csproj": {}
+    "C:\\Users\\dcabral\\source\\repos\\Mobizone\\MobiZone\\MobiZone.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dcabral\\source\\repos\\MobiZone\\MobiZone\\MobiZone.csproj": {
+    "C:\\Users\\dcabral\\source\\repos\\Mobizone\\MobiZone\\MobiZone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dcabral\\source\\repos\\MobiZone\\MobiZone\\MobiZone.csproj",
+        "projectUniqueName": "C:\\Users\\dcabral\\source\\repos\\Mobizone\\MobiZone\\MobiZone.csproj",
         "projectName": "MobiZone",
-        "projectPath": "C:\\Users\\dcabral\\source\\repos\\MobiZone\\MobiZone\\MobiZone.csproj",
+        "projectPath": "C:\\Users\\dcabral\\source\\repos\\Mobizone\\MobiZone\\MobiZone.csproj",
         "packagesPath": "C:\\Users\\dcabral\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dcabral\\source\\repos\\MobiZone\\MobiZone\\obj\\",
+        "outputPath": "C:\\Users\\dcabral\\source\\repos\\Mobizone\\MobiZone\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dcabral\\AppData\\Roaming\\NuGet\\NuGet.Config",

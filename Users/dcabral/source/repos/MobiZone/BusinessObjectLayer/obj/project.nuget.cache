@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uixMfVoSPv7jlfYrL3d8mINnp35nEHPHvK6logNJl36ZzAfGhlPILZh4kkK6KGOR9yLY40eH6F3xRY60hGGRVg==",
+  "dgSpecHash": "jDccsT9981mqwYF7sFLkAwJwKKTkBq81Z9AwIBKsW7iXYNPWnwcZj7d1jVLinAoNVqEe7vEpvEeRukssZA9y1g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dcabral\\source\\repos\\MobiZone\\BusinessObjectLayer\\BusinessObjectLayer.csproj",
+  "projectFilePath": "C:\\Users\\dcabral\\source\\repos\\Mobizone\\BusinessObjectLayer\\BusinessObjectLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dcabral\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\dcabral\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

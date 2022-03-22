@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GUx2GeJhACuXG2BKuGfF5wF6qvlrVpgtBj4OAOghm6vkBm7ZDaGL0TxiyL5eWvxGICVfNmf4/DOgSoEkD/U1Uw==",
+  "dgSpecHash": "VJhewYCDS7slcTD8CBboa0OEPS6YQgFHx/0CTrUjtQwJETcZqfW3v+H3vq6qGpu2+sZDSWzapm/sbWq81OkT7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dcabral\\source\\repos\\MobiZone\\Repository\\Repository.csproj",
+  "projectFilePath": "C:\\Users\\dcabral\\source\\repos\\Mobizone\\Repository\\Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dcabral\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\dcabral\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -11,10 +11,12 @@ namespace Repository
     {
         ProductDbContext Context;
         readonly DbSet<T> dbSet;
+       
         public RepositoryOperations(ProductDbContext product)
         {
             Context = product;
             dbSet = Context.Set<T>();
+           
         }
         public void Add(T entity)
         {
@@ -31,9 +33,10 @@ namespace Repository
             return dbSet.ToList();
         }
 
-        public Product GetById(int id)
+        public T GetById(int Id)
         {
-            return dbSet.Find(id);
+
+            return dbSet.Find(Id);
         }
 
         public void Save()
